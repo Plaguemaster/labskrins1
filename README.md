@@ -47,6 +47,14 @@ part3
 ![image](https://user-images.githubusercontent.com/65495621/162822089-c816dcc7-a637-4039-b169-1a052ec883a4.png)
 ![image](https://user-images.githubusercontent.com/65495621/162823214-fbea2ad6-1c5a-478c-873e-873fe93f4249.png)
 lab4
+ex1
+![image](https://user-images.githubusercontent.com/65495621/162971243-ecef368b-039f-4c40-8dab-81252480debe.png)
+![image](https://user-images.githubusercontent.com/65495621/162974523-942fce48-3f03-488b-8427-03d3318b8757.png)
+ex2
+![image](https://user-images.githubusercontent.com/65495621/162980852-0e5006cd-acd4-4d94-9b55-e06113d1d486.png)
+ex3
+
+
 
 
 
