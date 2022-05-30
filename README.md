@@ -119,6 +119,14 @@ ex2
 ![image](https://user-images.githubusercontent.com/65495621/162980852-0e5006cd-acd4-4d94-9b55-e06113d1d486.png)
 
 ex3
+File CMakeLists.txt in solver_lib
+![изображение](https://user-images.githubusercontent.com/65495621/171002876-6b9bd8ba-f05a-43af-9285-e9bc6aebb1b4.png)
+File solver.cpp in solver_lib
+![изображение](https://user-images.githubusercontent.com/65495621/171003528-0a8956bb-1993-4096-b0e2-e3d8555f257c.png)
+File solver.h in solver_lib
+![изображение](https://user-images.githubusercontent.com/65495621/171003888-227b3ffa-030b-4d16-9801-18df6fb9ecf8.png)
+
+
 
 
 
